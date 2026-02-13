@@ -1,0 +1,6 @@
+Image Classification/BoneBreakClassification/
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.zip
+**/*.pt
